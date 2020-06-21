@@ -1,0 +1,78 @@
+@media all and (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .lesson {
+    width: 50%;
+  }
+  .top-wrapper h1, h2{
+    font-size: 32px;
+    text-align: center;
+  }
+  .top-wrapper h4{
+    font-size: 16px;
+    text-align: center
+  }
+  .lesson-icon {
+    position: relative;
+  }
+  
+  .lesson-icon p {
+    position: absolute;
+    top: 44%;
+    width: 100%;
+    color: white;
+  }
+  .heading h2 {
+    font-size: 20px;
+    text-align: center
+  }
+  footer {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 50%;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  .header-right{
+    display: none;
+  }
+  
+  .menu-icon{
+    display: block;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .sale{
+    width: 100%
+  }
+}
