@@ -45,6 +45,7 @@
   
   .btn {
     width: 50%;
+    padding: 12px 15px;
   }
   
   .facebook {
@@ -70,7 +71,7 @@
   }
   .sale{
     width: 100%
-   }
+  }
   .profile{
     width: 100%
   }
